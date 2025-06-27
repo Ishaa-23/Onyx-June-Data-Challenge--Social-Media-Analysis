@@ -9,7 +9,10 @@ You are tasked with analyzing a 2024 dataset of post-level performance across Ti
 
 # Dashboard
 
-![ezgif com-optimize](https://github.com/user-attachments/assets/8512c7d5-5716-42a3-acd1-0d1bb180ba8a)
+![Screenshot 2025-06-21 163206](https://github.com/user-attachments/assets/6607ee92-7a0a-4b36-b24d-cce472dff80a)
+![Screenshot 2025-06-21 163233](https://github.com/user-attachments/assets/537ba922-bca7-4704-9491-05728a5ad193)
+![Screenshot 2025-06-21 165838](https://github.com/user-attachments/assets/8b84242a-7bfb-4729-9c33-cdafbb165a2c)
+![Screenshot 2025-06-21 163150](https://github.com/user-attachments/assets/a7b5fc7e-cd1a-4f43-b730-bd7237679244)
 
 # Tech Stack
 Excel, Power Bi, DAX Functions
